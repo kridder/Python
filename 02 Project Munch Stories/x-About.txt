@@ -1,0 +1,34 @@
+Project Munch Stories (working title)
+
+A local co-op card game where you have to work together to survive as long as possible.
+
+Each player has three rows of cards. In the beginning only the bottom one has cards.
+
+The bottom row represents the player's backpack, and can up to hold 7 weapons.
+The middle row represents the player's weapon belt and can hold up to 3 weapons.
+The top row represents the player's hands and can hold 1 medium or large weapon, or 2 small weapons.
+
+During combat, the level of the weapon held in each player's hand will count towards the combined combat level of both players
+along with their individual player levels. The combined player level must be higher than the combined enemy level to defeat
+the enemies.
+While in combat players are only allowed to swap weapons between their hands and weapons belt, there will be no time to
+access the backpack, so choose loadout wisely.
+
+After each combat there is a chance that the weapons the players used will break and become useless.
+
+In between combat looting will take place to gain extra weapons, and to change the weapons between the belt and the backpack if
+desired.
+
+Controls:
+press 'd' for descend. This will initiate combat with the next batch of enemies.
+press 'f' for fight to resolve the combat.
+
+press 'r' to roll the dice after combat.
+press 'c' to change player. (active player indicated in blue)
+
+use the arrow keys to navigate between weapon cards.
+press 'page up' to move a weapon to a higher row.
+press 'page down' to move a weapon to a lower row.
+press 'insert' to swap two weapons between rows.
+press 'delete' to discard a card when the dice roll is failed. (card indicated in red)
+press 'end' to give a card to the other player.

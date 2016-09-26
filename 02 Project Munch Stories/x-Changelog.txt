@@ -1,0 +1,16 @@
+0.00.01 - Created Layout for GUI.
+0.00.02 - First Three Enemy cards able to display variable cards. Combined enemy level calculated.
+0.00.03 - GUI can now display seven random enemy cards.
+0.00.04 - Game creates a (not random) enemy deck and 'empties' it on the table. If empty it creates a new one (resets).
+0.00.05 - Enemy deck is now randomly created and all enemy cards are in the game. If the deck is empty a new deck is randomly created from the cards that have been defeated.
+0.00.06 - Added 'Fight' and 'Descend' 'Buttons' (not yet clickable). Added a list of possible enemy abbilities which flash up when in play.
+0.00.07 - Added templates for Player1 Hand Cards. Added all item cards.
+0.00.08 - Item is now randomly created. Each player has their own hand of cards, each start with 3 cards. If the players advance a round they each get two more items. Max 5 cards in hand or the game won't continue.
+0.00.09 - Cards in the active player's hand are now selectable and you can delete them.
+0.00.10 - Card switching, selecting and deleting now fully implemented. Each player also has their own active and belt cards.
+0.00.11 - Card trading and swapping implemented.
+0.00.12 - Dice rolls implemented.
+0.00.13 - Can now have two weapons active simultaneously if there are both small and at least one is melee. Can't cheat by swapping for bigger ore second ranged weapon.
+0.00.14 - Rolling now also works with two active weapons. Cannot acces backpack before fight.
+0.00.15 - Enemy Abbilities 'Layered' 'Plated' 'Armour' 'Thick Skinned' 'Lurk' and 'Inspire' now work.
+0.00.16 - Enemy Abbility 'Shroud' implemented. Made debug button.

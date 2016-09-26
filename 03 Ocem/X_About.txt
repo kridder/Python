@@ -1,0 +1,9 @@
+Ocem (working title)
+
+A math game using the octal system and custom symbols to represent the numbers.
+See X_Ref.jpg to see what number corresponds with what symbol.
+
+Press 'p' to start play mode.
+Use the mouse to enter the correct answer to the displayed math question by using the mouse.
+You can use the number buttons at the bottom of the screen or mouse over the greyed out answer and click the desired position.
+Then click enter to check you answer and then click enter again to go to the next question.

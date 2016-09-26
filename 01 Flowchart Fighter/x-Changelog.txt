@@ -1,0 +1,54 @@
+0.00.5 - Playble with Strikes.
+0.00.6 - Stunning works, fixed being able to blind same eye more than once.
+0.00.7 - Choose attacking hand and save broken fingers.
+0.00.8 - Cannot attack with hurt arms or hands.
+0.00.9 - Blinding works.
+
+0.01.0 - Striking now fully functional.
+
+0.01.1 - Programmed random 'AI'.
+0.01.2 - AI now intelligent.
+0.01.3 - AI now even more I.
+0.01.4 - Some more AI changes.
+
+0.01.5 - Kicks can now break bones.
+0.01.6 - Kicks now fully functional.
+0.01.7 - AI now reacts to falling.
+0.01.8 - AI now uses kicks if arms are damaged.
+0.01.9 - Implemented damage calculator.
+
+0.02.0 - Programmed kick oriented AI personalities, kicking fully implemented.
+
+0.02.1 - Grabbing and breaking grabs fully functional.
+0.02.2 - Wrestling (standing) buttons now work. First move partially functional.
+0.02.3 - Kneeing fully functional, headbutting partially.
+0.02.4 - Wrestling (standing) now fully functional.
+
+0.02.5 - Finished wrestling and started on AI personalties 1 and 2.
+0.02.6 - AI personalities (0 & 1) 1 and 2 finished. Fixed stunning and releasing with crippled arms.
+0.02.7 - All AI personalities now implemt grabbing. Fixed stunning and releasing with crippled arms some more.
+
+0.02.8 - Added AI personalities 7 and fixed grabbing with crippled left arm. Grabbing and wrestling now fully implemented.
+	 Project now completed up to the first three (paper) flowcharts, in the way they were written.
+0.02.9 - Started implementing gameplay changes for balance and completion.
+
+0.03.0 - Finsished making balancing and completion changes.
+
+0.03.1 - Made layout for new GUI.
+0.03.2 - Script now waits for key presses. Key activates on release of key.
+0.03.3 - AI now 'activates' and messages display correctly.
+0.03.4 - When striking, Input screen updates accordingly and Ouput screen updates on first, but not second step (last version that still supports main).
+
+0.03.5 - When striking, Input and Ouput screens update correctly.
+0.03.6 - Health of both players now displays and updates continually (DMGCalc not yet implemented so totals don't update).
+0.03.7 - When kicking, Input and Ouput screens also update correctly.
+0.03.8 - Grabbing and wrestling fully implemented in new GUI. Removed bugs in deviant and striking where opponent wasn't stunned after being hit on  an already broken target.
+0.03.9 - Releasing and breaking hold and standing up now work correctly in new GUI. Fixed message saying opponent fell down while he is already down when Brain = 2.
+
+0.04.0 - Finished overhaul to new GUI.
+	 Output screen shows more than one turn.
+	 Added player 'names'.
+	 Can't quit game on SPACE.
+	 Added skipping end turn.
+	 Added yielding.
+	 Can't skip turn by pressing InputKey that does nothing.

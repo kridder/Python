@@ -1,0 +1,6 @@
+Flowchart Fighre (working title)
+
+A dice and flowchart based fighting game inspired by the combar mechanics in the game 'dwarf fortress'.
+
+Follow the button prompts on the screen to fight your enemy.
+Press 'enter' when prompted to press 'space' to stop press 'space' prompts.
